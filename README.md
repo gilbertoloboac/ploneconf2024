@@ -108,3 +108,4 @@ make i18n
 ## Credits and Acknowledgements 🙏
 
 Crafted with care by **Generated using [Cookieplone (0.8.1)](https://github.com/plone/cookieplone) and [cookiecutter-plone (9bb001e)](https://github.com/plone/cookiecutter-plone/commit/9bb001e60deea745157db9c3e4a8fc99e77963c9) on 2024-11-26 10:07:21.446195**. A special thanks to all contributors and supporters!
+# ploneconf2024
